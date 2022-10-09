@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/ali-suntur-4a88ab216/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
-   <a href="https://www.instagram.com/coderrali/">
+   <a href="https://www.instagram.com/ankacoders/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
  <p align= "center">
