@@ -2,15 +2,15 @@
   <h1 align="center"> Welcome to my world <img src="https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif" width="40px">
  <h1 align="center">Hi , I'm Ali  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">   </h1>
 <p align="center">
-  <a href="https://github.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+code+repostoiry;My+nickname+is+MrCoderAli;I'm+Management+Information+Systems+Student;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+code+repostoiry;My+nickname+is+alisuntur;I'm+Management+Information+Systems+Student;&center=true&width=500&height=50"></a>
 </p>
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/MrCoderAli" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img src="https://gpvc.arturio.dev/alisuntur" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/MrCoderAli?MrCoderAlilabel=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/MrCoderAli?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/alisuntur?alisunturlabel=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/alisuntur?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 <p align="center"
 <h3 align="center">Languages and Tools:</h3>
@@ -46,8 +46,8 @@
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
  <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=MrCoderAli&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCoderAli&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=alisuntur&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisuntur&theme=react&layout=compact" />
 </p>
 
 
