@@ -2,7 +2,7 @@
   <h1 align="center"> Welcome to my world <img src="https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif" width="40px">
  <h1 align="center">Hi , I'm Ali  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">   </h1>
 <p align="center">
-  <a href="https://github.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+code+repostoiry;I'm Jr.Full Stack+Developer+;I'm+Management+Information+Systems+Student;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+code+repostoiry;I'm+Jr.Full Stack+Developer+;I'm+Management+Information+Systems+Student;&center=true&width=500&height=50"></a>
 </p>
 
 
