@@ -16,9 +16,7 @@
 * German : A2
 
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/alisuntur
 
 <br>
 
@@ -31,8 +29,9 @@
 ## Connect with me:
 
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alisuntur/) 
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/alisuntur/) 
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alisuntur 
 
 <br> 
 
