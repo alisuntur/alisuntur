@@ -16,6 +16,10 @@
 * German : A2
 
 
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alisuntur
+
 <br>
 
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align="right" width="400" height="250">
