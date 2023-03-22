@@ -1,16 +1,54 @@
-### Hi there 👋
+# Hi there, I'm Ali👋
 
-<!--
-**alisuntur/alisuntur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Hello , I am Ali . I am a 1st year student at Pamukkale University Management Information Systems Department .
 
-Here are some ideas to get you started:
+* I started my software journey with Python in my high school years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I learned Python language better in my department classes. I also learned about C and C # languages ​​in my department and improved myself.
+
+* Currently, I am developing myself in the Web Space in my spare time.
+* I'm learning Html-Css-Js-React-Django.
+<br>
+<br>
+
+* My foreign language level:
+* English : B1
+* German : A2
+
+
+<br>
+
+<img align="left" alt="" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-plain-wordmark.svg](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk4NDM2YTEyYmM4ZGZjOTY5OTJhYTYwNzQwNDI2NzRiMjMyNjYyZSZjdD1n/YW1g39jepet2t5bcSh/giphy.gif" style="padding-right:10px;" />
+<br>
+<br>
+
+## Connect with me:
+
+
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alisuntur/) 
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/alisuntur/) 
+
+<br> 
+
+## Languages and Tools:
+
+<img align="left" alt="Bootstrap" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Canva" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/canva/canva-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="C" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-line.svg" style="padding-right:10px;"/>
+<img align="left" alt="C#" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="CSS3" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Javacript" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Next Js" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nextjs/nextjs-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="React" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Vue Js" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vuejs/vuejs-original.svg" style="padding-right:10px;"/>
+
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" alt="Django" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Node Js" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;"/>
