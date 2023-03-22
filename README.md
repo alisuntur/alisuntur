@@ -18,7 +18,7 @@
 
 <br>
 
-![alt text]([http://url/to/img.png](https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-plain-wordmark.svg](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk4NDM2YTEyYmM4ZGZjOTY5OTJhYTYwNzQwNDI2NzRiMjMyNjYyZSZjdD1n/YW1g39jepet2t5bcSh/giphy.gif))
+![alt text]([(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk4NDM2YTEyYmM4ZGZjOTY5OTJhYTYwNzQwNDI2NzRiMjMyNjYyZSZjdD1n/YW1g39jepet2t5bcSh/giphy.gif)]
 
 
 <br>
