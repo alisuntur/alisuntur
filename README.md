@@ -12,10 +12,10 @@
 <br>
 <br>
 
-*My foreign language levels:
+* My foreign language levels:
 
-*English: B1
-*German: A2
+* English: B1
+* German: A2
 
 
 
