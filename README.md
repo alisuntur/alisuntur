@@ -1,9 +1,9 @@
 # Hi there, I'm Ali👋
 
-*Hello, I am Ali. I am a freshman at Pamukkale University's Management Information Systems Department.
+* Hello, I am Ali. I am a freshman at Pamukkale University's Management Information Systems Department.
 
 
-*I started my software journey with Python during my high school years. 
+* I started my software journey with Python during my high school years. 
 
 * I learned Python better in my department courses. In addition, I learned and improved myself in C and C# languages ​​in my department.
 
