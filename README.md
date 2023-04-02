@@ -1,19 +1,21 @@
 # Hi there, I'm Ali👋
 
-* Hello , I am Ali . I am a 1st year student at Pamukkale University Management Information Systems Department .
+*Hello, I am Ali. I am a freshman at Pamukkale University's Management Information Systems Department.
 
-* I started my software journey with Python in my high school years.
 
-* I learned Python language better in my department classes. I also learned about C and C # languages ​​in my department and improved myself.
+*I started my software journey with Python during my high school years. 
 
-* Currently, I am developing myself in the Web Space in my spare time.
-* I'm learning Html-Css-Js-React-Django.
+* I learned Python better in my department courses. In addition, I learned and improved myself in C and C# languages ​​in my department.
+
+* Currently, in my free time, I am improving myself in the Web field.
+* I am learning Html-Css-Js-React-Django.
 <br>
 <br>
 
-* My foreign language level:
-* English : B1
-* German : A2
+*My foreign language levels:
+
+*English: B1
+*German: A2
 
 
 
