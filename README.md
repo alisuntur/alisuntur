@@ -56,4 +56,4 @@
 <br>
 
 <img align="left" alt="Django" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-plain.svg" style="padding-right:10px;"/>
-<img align="left" alt="Node Js" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="Node Js" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original-wordmark.svg" style="padding-right:10px;"/>
