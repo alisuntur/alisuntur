@@ -30,7 +30,7 @@
 
 ## Connect with me:
 
-
+[![](https://visitcount.itsvg.in/api?id=alisuntur&icon=0&color=0)](https://visitcount.itsvg.in)
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/alisuntur 
@@ -45,12 +45,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alisuntur&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alisuntur&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=alisuntur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br>
-<br>
-<br>
-<br>
+
+
