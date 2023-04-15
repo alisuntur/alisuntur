@@ -10,6 +10,7 @@
 * Currently, in my free time, I am improving myself in the Web field.
 * I am learning Html-Css-Js-React-Django.
 <br>
+<img src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp"  width="400" height="250" align="right" >
 <br>
 
 * My foreign language levels:
@@ -21,7 +22,7 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzMzc3ZTNiZjY2MWI1MjJmMGY3OTM3NGRkNjc5ZTUzNjUyZGNlZSZjdD1n/2wgWwdQ05dAg64Dil6/giphy.gif"  width="400" height="250" align="right" >
 
-<img src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp"  width="400" height="250" align="right" >
+
 
 
 <br>
