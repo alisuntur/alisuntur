@@ -17,13 +17,10 @@
 * English: B1
 * German: A2
 
-
-
-
 <br>
-<p align="right">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzMzc3ZTNiZjY2MWI1MjJmMGY3OTM3NGRkNjc5ZTUzNjUyZGNlZSZjdD1n/2wgWwdQ05dAg64Dil6/giphy.gif"  width="400" height="250">
-</p>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzMzc3ZTNiZjY2MWI1MjJmMGY3OTM3NGRkNjc5ZTUzNjUyZGNlZSZjdD1n/2wgWwdQ05dAg64Dil6/giphy.gif"  width="400" height="250" align="right" >
+
 
 
 
