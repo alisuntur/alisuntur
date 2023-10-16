@@ -1,14 +1,14 @@
 # Hi there, I'm Ali👋
 
-* Hello, I am Ali. I am a freshman at Pamukkale University's Management Information Systems Department.
+* Hello, I am Ali. I am a sophomore at Pamukkale University's Management Information Systems Department.
 
 
 * I started my software journey with Python during my high school years. 
 
 * I learned Python better in my department courses. In addition, I learned and improved myself in C and C# languages ​​in my department.
-
-* Currently, in my free time, I am improving myself in the Web field.
-* I am learning Html-Css-Js-React-Django.
+* I learned the SQL language to use in school projects.
+* Currently, I am improving myself in the field of Web and mobile in my spare time.
+* I am learning Html-Css-Js-React-Django in the web area; Flutter (Dart), Kotlin and Java in the mobile area.
 <br>
 <img src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp"  width="400" height="250" align="right" >
 <br>
