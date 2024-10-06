@@ -1,6 +1,6 @@
 # Hi there, I'm Ali👋
 
-* Hello, I am Ali. I am a sophomore at Pamukkale University's Management Information Systems Department.
+* Hello, I am Ali. I am a Junior  at Pamukkale University's Management Information Systems Department.
 
 
 * I started my software journey with Python during my high school years. 
