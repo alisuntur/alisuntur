@@ -1,51 +1,60 @@
-# Hi there, I'm Ali👋
+# Hi there, I'm Ali! 👋
 
-* Hello, I am Ali. I am a Junior  at Pamukkale University's Management Information Systems Department.
+---
 
+### 🌌 Welcome to My GitHub Universe!
 
-* I started my software journey with Python during my high school years. 
+I'm Ali, a Junior at **Pamukkale University's Management Information Systems Department**, and an enthusiastic **Star Trek fan** who loves merging the wonders of technology with the spirit of exploration. 🖖
 
-* I learned Python better in my department courses. In addition, I learned and improved myself in C and C# languages ​​in my department.
-* I learned the SQL language to use in school projects.
-* Currently, I am improving myself in the field of Web and mobile in my spare time.
-* I am learning Html-Css-Js-React-Django in the web area; Flutter (Dart), Kotlin and Java in the mobile area.
-<br>
-<img src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp"  width="400" height="250" align="right" >
-<br>
+---
 
-* My foreign language levels:
+### 🚀 About Me
 
-* English: B1
-* German: A2
+- 💻 **Software Journey**: I began with **Python** during high school and expanded my skills at university by diving into:
+  - **Python** (advanced in courses)
+  - **C** & **C#** (department projects)
+  - **SQL** (for database-driven school projects)
 
-<br>
+- 🌐 **Current Focus**: Exploring the realms of **Web** and **Mobile Development**:
+  - **Web**: `HTML`, `CSS`, `JavaScript`, `React`, `Django`
+  - **Mobile**: `Flutter (Dart)`
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzMzc3ZTNiZjY2MWI1MjJmMGY3OTM3NGRkNjc5ZTUzNjUyZGNlZSZjdD1n/2wgWwdQ05dAg64Dil6/giphy.gif"  width="400" height="250"  >
+---
 
+### 🌟 My Skills
 
+- Programming Languages: **Python**, **C**, **C#**, **Dart**
+- Web Technologies: **HTML**, **CSS**, **JavaScript**, **React**, **Django**
+- Database: **SQL**
+- Foreign Languages:
+  - **English**: B1 🌍
+  - **German**: A2 🇩🇪
 
+---
 
-<br>
-<br>
+### 🖖 "Live Long and Code!"
 
-## Connect with me:
+Being a **Star Trek** enthusiast, I love integrating sci-fi inspiration into my coding projects. Technology and exploration fuel my creativity to boldly go where no developer has gone before!
 
-[![](https://visitcount.itsvg.in/api?id=alisuntur&icon=0&color=0)](https://visitcount.itsvg.in)
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxsdXJmZ3cwajFlYnE3ZGZ3MDF1a3ZqdWh5ZHo3bm53dnh5cjU2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4v1pOaMg4Z1pOUFK5K/giphy.webp" alt="USS Enterprise Star Trek gif" width="300" />
+  <br>
+  <em>"Make it so, Number One!"</em>
+</div>
 
-[linkedin]: https://www.linkedin.com/in/alisuntur 
+---
 
-<br> 
+### 📫 Connect With Me
 
+Feel free to explore my repositories and reach out for collaborations:
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alisuntur&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alisuntur&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alisuntur&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **GitHub**: [Ali's Profile](https://github.com/YourGitHubUsername)
+- **Email**: ali@example.com
 
+---
 
-
-
-
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN2ZXgxZXFmZ3I3cG5nZzNxcHhwanRzbGg5NXhnaWU3Nnc2YzhxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp" alt="Coding gif" width="400" />
+  <br>
+  <em>"The journey of a thousand codes begins with a single step."</em>
+</div>
