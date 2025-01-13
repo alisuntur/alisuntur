@@ -48,8 +48,8 @@ Being a **Star Trek** enthusiast, I love integrating sci-fi inspiration into my 
 
 Feel free to explore my repositories and reach out for collaborations:
 
-- **GitHub**: [Ali's Profile](https://github.com/YourGitHubUsername)
-- **Email**: ali@example.com
+- **GitHub**: [Ali's Profile](https://github.com/alisuntur)
+- **Email**: sunturali07@gmail.com
 
 ---
 
