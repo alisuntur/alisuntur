@@ -16,8 +16,15 @@ I'm Ali, a Junior at **Pamukkale University's Management Information Systems Dep
   - **SQL** (for database-driven school projects)
 
 - 🌐 **Current Focus**: Exploring the realms of **Web** and **Mobile Development**:
-  - **Web**: `HTML`, `CSS`, `JavaScript`, `React`, `Django`
-  - **Mobile**: `Flutter (Dart)`
+### 💻 Web Development
+- ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+- ![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=dotnet&logoColor=white)
+
+### 📱 Mobile Development
+- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
 ---
 
